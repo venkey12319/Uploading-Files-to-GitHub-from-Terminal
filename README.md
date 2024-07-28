@@ -37,6 +37,7 @@ Create the directory structure as needed:
     ├── install_dependencies.sh
     └── start_server.sh
     **
+    
 Add Files and Folders to Git:
 
 Add the created files and folders to the staging area:
